@@ -1,4 +1,4 @@
-# Домашнее задание к занятию «Kubernetes. Причины появления. Команда kubectl»
+# Домашнее задание к занятию «Kubernetes. Причины появления. Команда kubectl» Соловьев Д.В.
 1. MicroK8S установлен:  
    ![microk8s status](./pictures/microk8s%20status.PNG)  
    Dashboard установлен:  
